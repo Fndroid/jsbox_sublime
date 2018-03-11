@@ -1,0 +1,4 @@
+[
+	{"caption": "Jsbox: Sync File", "command": "jsboxsyncfile"},
+	{"caption": "Jsbox: Download File", "command": "jsboxdownloadfile"}
+]
